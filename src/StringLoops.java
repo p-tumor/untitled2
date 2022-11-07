@@ -48,7 +48,7 @@ Examples:
      - if origString = "Supercalifragilisticexpialidocious", this method returns 16
     */
     public int countVowels(String origString){
-        
+
     }
 }
 
